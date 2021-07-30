@@ -1,8 +1,8 @@
 [package]
-name = "blockchain-in-rust"
+name = "blockchain-rust"
 version = "0.1.0"
-authors = ["Jacob <jacob@geeklaunch.net>"]
-edition = "2018"
+authors = ["skull322@protonmail.com"]
+edition = "block-start"
 
 [lib]
 name = "blockchainlib"
